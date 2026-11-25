@@ -112,4 +112,6 @@ for (let i = 0; i < movies.length; i++) {
   card.appendChild(imgg);
 
   container.appendChild(card);
+
+  movieName.classList.add("");
 }
